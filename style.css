@@ -1,0 +1,38 @@
+        .main{
+            max-width:600px;
+            height: auto;
+            margin:0 auto; 
+        }
+        input{
+            width: 100%;
+            border:14px solid rgb(86, 169, 197);
+            padding-left: 30px; 
+        }
+        .input-icons i { 
+            position: absolute; 
+        } 
+        .input-icons { 
+            width: 100%; 
+            margin-bottom: 10px; 
+        } 
+        
+        .icon { 
+            padding: 15px; 
+            color: grey; 
+            min-width: 50px; 
+            text-align: center; 
+        } 
+        .fa{
+            font-size: 20px;
+        }
+        .formate{
+            margin-top:30px
+        }
+        .inner{
+        padding: 10px;
+        border-bottom: 1px solid lightgrey;
+        }
+        img{
+            width:70px;
+            height: 70px;
+        }
